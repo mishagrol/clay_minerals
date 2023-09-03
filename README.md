@@ -1,2 +1,2 @@
-# clay_minerals
+# Clay minerals 🗿
 Clay minerals dynamica and modelling
