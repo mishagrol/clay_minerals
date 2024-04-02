@@ -1,18 +1,12 @@
 # Clay minerals 🗿
-Clay minerals dynamica and modelling
 
+Clay minerals dynamics and modelling
 
-__Source code for paper Clay minerals transformation__
-
-
+Source code for paper Clay minerals transformation
 
 ## Installation
 
 Clone this repository
-
-
-## Soil Data 
-
 
 ## License
 
